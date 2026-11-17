@@ -45,16 +45,15 @@ def load_cached_agent(agent_name: str):
 
 
 st.set_page_config(
-    page_title="Flappy Bird AI Benchmark: NEAT vs DQN vs PPO",
+    page_title="flappygym: Flappy Bird Gymnasium Environment (NEAT, DQN, PPO)",
     page_icon="🐦",
     layout="wide",
 )
 
-st.title("🐦 Flappy Bird AI Benchmark: Neuroevolution (NEAT) vs. Deep RL (DQN & PPO)")
+st.title("🐦 flappygym")
 st.markdown(
-    "A controlled empirical comparison of **NEAT**, **DQN**, and **PPO** on a custom "
-    "**Gymnasium** Flappy Bird environment — complete with multi-seed stability, "
-    "reward-shaping & observation-space ablations, and live policy visualization."
+    "A custom Flappy Bird **Gymnasium** environment with **NEAT**, **DQN** and **PPO** agents, "
+    "multi-seed evaluation, ablation studies and a Streamlit demo."
 )
 
 tab_demo, tab_curves, tab_ablations, tab_findings = st.tabs(
