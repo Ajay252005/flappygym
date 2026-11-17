@@ -1,0 +1,1608 @@
+{
+  "total_steps": 1000000,
+  "total_episodes": 10886,
+  "best_single_score": 16,
+  "best_rolling_score": 2.84,
+  "history": [
+    {
+      "step": 5000,
+      "episodes": 133,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.25577002838253976,
+      "mean_length": 37.56
+    },
+    {
+      "step": 10000,
+      "episodes": 266,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.18937838196754456,
+      "mean_length": 37.75
+    },
+    {
+      "step": 15000,
+      "episodes": 399,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.2914983706176281,
+      "mean_length": 37.59
+    },
+    {
+      "step": 20000,
+      "episodes": 531,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.18892918445169926,
+      "mean_length": 37.88
+    },
+    {
+      "step": 25000,
+      "episodes": 663,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.20049002170562744,
+      "mean_length": 37.68
+    },
+    {
+      "step": 30000,
+      "episodes": 794,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.13365669593214988,
+      "mean_length": 38.18
+    },
+    {
+      "step": 35000,
+      "episodes": 926,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.11307501919567585,
+      "mean_length": 38.27
+    },
+    {
+      "step": 40000,
+      "episodes": 1056,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.07339002884924412,
+      "mean_length": 38.56
+    },
+    {
+      "step": 45000,
+      "episodes": 1186,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.12221668787300587,
+      "mean_length": 38.5
+    },
+    {
+      "step": 50000,
+      "episodes": 1315,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.08784586235880852,
+      "mean_length": 38.86
+    },
+    {
+      "step": 55000,
+      "episodes": 1443,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.012520844712853432,
+      "mean_length": 39.12
+    },
+    {
+      "step": 60000,
+      "episodes": 1571,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": -0.05164169371128082,
+      "mean_length": 39.1
+    },
+    {
+      "step": 65000,
+      "episodes": 1698,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.035508294850587846,
+      "mean_length": 39.23
+    },
+    {
+      "step": 70000,
+      "episodes": 1823,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.0540791329741478,
+      "mean_length": 39.86
+    },
+    {
+      "step": 75000,
+      "episodes": 1948,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.13403916746377945,
+      "mean_length": 40.02
+    },
+    {
+      "step": 80000,
+      "episodes": 2073,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.08579829029738903,
+      "mean_length": 40.11
+    },
+    {
+      "step": 85000,
+      "episodes": 2197,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.11284414455294609,
+      "mean_length": 40.28
+    },
+    {
+      "step": 90000,
+      "episodes": 2322,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.11898247219622135,
+      "mean_length": 40.21
+    },
+    {
+      "step": 95000,
+      "episodes": 2446,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.10582580059766769,
+      "mean_length": 40.23
+    },
+    {
+      "step": 100000,
+      "episodes": 2568,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.261727460026741,
+      "mean_length": 40.97
+    },
+    {
+      "step": 105000,
+      "episodes": 2690,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.24955913327634335,
+      "mean_length": 41.11
+    },
+    {
+      "step": 110000,
+      "episodes": 2809,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.44732166662812234,
+      "mean_length": 42.14
+    },
+    {
+      "step": 115000,
+      "episodes": 2926,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.4504633133858442,
+      "mean_length": 42.34
+    },
+    {
+      "step": 120000,
+      "episodes": 3043,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.4876124440133572,
+      "mean_length": 42.69
+    },
+    {
+      "step": 125000,
+      "episodes": 3162,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.3583149894326925,
+      "mean_length": 42.16
+    },
+    {
+      "step": 130000,
+      "episodes": 3278,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.5264633022248745,
+      "mean_length": 43.06
+    },
+    {
+      "step": 135000,
+      "episodes": 3393,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.5609274656325579,
+      "mean_length": 43.57
+    },
+    {
+      "step": 140000,
+      "episodes": 3504,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.7265691236406565,
+      "mean_length": 45.15
+    },
+    {
+      "step": 145000,
+      "episodes": 3616,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.7692207950353622,
+      "mean_length": 44.92
+    },
+    {
+      "step": 150000,
+      "episodes": 3726,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.8491166216135025,
+      "mean_length": 45.2
+    },
+    {
+      "step": 155000,
+      "episodes": 3835,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.894132472500205,
+      "mean_length": 46.21
+    },
+    {
+      "step": 160000,
+      "episodes": 3946,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.7589908081293106,
+      "mean_length": 44.82
+    },
+    {
+      "step": 165000,
+      "episodes": 4051,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 0.9316216347366572,
+      "mean_length": 47.24
+    },
+    {
+      "step": 170000,
+      "episodes": 4155,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.071509124264121,
+      "mean_length": 47.55
+    },
+    {
+      "step": 175000,
+      "episodes": 4260,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.1133191268891096,
+      "mean_length": 47.97
+    },
+    {
+      "step": 180000,
+      "episodes": 4361,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.3305033276230096,
+      "mean_length": 49.5
+    },
+    {
+      "step": 185000,
+      "episodes": 4459,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.5155174758285284,
+      "mean_length": 50.81
+    },
+    {
+      "step": 190000,
+      "episodes": 4559,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.4546266443282365,
+      "mean_length": 50.23
+    },
+    {
+      "step": 195000,
+      "episodes": 4653,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.8326891290396452,
+      "mean_length": 52.76
+    },
+    {
+      "step": 200000,
+      "episodes": 4744,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.151301637068391,
+      "mean_length": 55.43
+    },
+    {
+      "step": 205000,
+      "episodes": 4835,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.1330599746853114,
+      "mean_length": 55.54
+    },
+    {
+      "step": 210000,
+      "episodes": 4923,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.2649283183366062,
+      "mean_length": 55.94
+    },
+    {
+      "step": 215000,
+      "episodes": 5015,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.033116646632552,
+      "mean_length": 54.99
+    },
+    {
+      "step": 220000,
+      "episodes": 5109,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.7836866372078657,
+      "mean_length": 53.15
+    },
+    {
+      "step": 225000,
+      "episodes": 5206,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.5108216311782598,
+      "mean_length": 51.43
+    },
+    {
+      "step": 230000,
+      "episodes": 5292,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.328489952608943,
+      "mean_length": 57.17
+    },
+    {
+      "step": 235000,
+      "episodes": 5380,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.34153829395771,
+      "mean_length": 57.43
+    },
+    {
+      "step": 240000,
+      "episodes": 5472,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.9861616419255734,
+      "mean_length": 54.35
+    },
+    {
+      "step": 245000,
+      "episodes": 5570,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 1.6367724746465684,
+      "mean_length": 51.41
+    },
+    {
+      "step": 250000,
+      "episodes": 5650,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 2.5864966215938328,
+      "mean_length": 59.65
+    },
+    {
+      "step": 255000,
+      "episodes": 5722,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 3.5747574926912784,
+      "mean_length": 67.51
+    },
+    {
+      "step": 260000,
+      "episodes": 5788,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 4.387183313444257,
+      "mean_length": 74.1
+    },
+    {
+      "step": 265000,
+      "episodes": 5849,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 5.416968301981687,
+      "mean_length": 80.25
+    },
+    {
+      "step": 270000,
+      "episodes": 5908,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 5.982275809645653,
+      "mean_length": 84.04
+    },
+    {
+      "step": 275000,
+      "episodes": 5966,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 6.100245812833309,
+      "mean_length": 85.64
+    },
+    {
+      "step": 280000,
+      "episodes": 6023,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 6.627833313792944,
+      "mean_length": 88.61
+    },
+    {
+      "step": 285000,
+      "episodes": 6087,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 5.85526917219162,
+      "mean_length": 82.04
+    },
+    {
+      "step": 290000,
+      "episodes": 6140,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 6.431498354002834,
+      "mean_length": 85.73
+    },
+    {
+      "step": 295000,
+      "episodes": 6189,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 8.269516672939062,
+      "mean_length": 98.33
+    },
+    {
+      "step": 300000,
+      "episodes": 6240,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 8.595560827031731,
+      "mean_length": 100.52
+    },
+    {
+      "step": 305000,
+      "episodes": 6307,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 5.938482514098286,
+      "mean_length": 81.22
+    },
+    {
+      "step": 310000,
+      "episodes": 6356,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 7.011652511656284,
+      "mean_length": 88.57
+    },
+    {
+      "step": 315000,
+      "episodes": 6403,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 9.240003327950836,
+      "mean_length": 103.79
+    },
+    {
+      "step": 320000,
+      "episodes": 6452,
+      "mean_score": 0.0,
+      "best_single_score": 0,
+      "mean_reward": 9.409724168553948,
+      "mean_length": 105.01
+    },
+    {
+      "step": 325000,
+      "episodes": 6496,
+      "mean_score": 0.08,
+      "best_single_score": 2,
+      "mean_reward": 10.1618791706115,
+      "mean_length": 107.83
+    },
+    {
+      "step": 330000,
+      "episodes": 6538,
+      "mean_score": 0.16,
+      "best_single_score": 2,
+      "mean_reward": 11.241259156316518,
+      "mean_length": 112.81
+    },
+    {
+      "step": 335000,
+      "episodes": 6578,
+      "mean_score": 0.27,
+      "best_single_score": 3,
+      "mean_reward": 12.945914982259273,
+      "mean_length": 121.02
+    },
+    {
+      "step": 340000,
+      "episodes": 6618,
+      "mean_score": 0.29,
+      "best_single_score": 3,
+      "mean_reward": 13.397667469233275,
+      "mean_length": 122.74
+    },
+    {
+      "step": 345000,
+      "episodes": 6665,
+      "mean_score": 0.19,
+      "best_single_score": 3,
+      "mean_reward": 11.833010798841714,
+      "mean_length": 115.03
+    },
+    {
+      "step": 350000,
+      "episodes": 6709,
+      "mean_score": 0.12,
+      "best_single_score": 3,
+      "mean_reward": 10.883214989900589,
+      "mean_length": 111.38
+    },
+    {
+      "step": 355000,
+      "episodes": 6752,
+      "mean_score": 0.09,
+      "best_single_score": 3,
+      "mean_reward": 11.19797666825354,
+      "mean_length": 114.02
+    },
+    {
+      "step": 360000,
+      "episodes": 6794,
+      "mean_score": 0.15,
+      "best_single_score": 3,
+      "mean_reward": 12.128019167482853,
+      "mean_length": 118.49
+    },
+    {
+      "step": 365000,
+      "episodes": 6834,
+      "mean_score": 0.21,
+      "best_single_score": 3,
+      "mean_reward": 12.671209166049957,
+      "mean_length": 120.78
+    },
+    {
+      "step": 370000,
+      "episodes": 6873,
+      "mean_score": 0.33,
+      "best_single_score": 3,
+      "mean_reward": 13.986769186034799,
+      "mean_length": 125.57
+    },
+    {
+      "step": 375000,
+      "episodes": 6908,
+      "mean_score": 0.4,
+      "best_single_score": 3,
+      "mean_reward": 15.149774194955826,
+      "mean_length": 130.43
+    },
+    {
+      "step": 380000,
+      "episodes": 6941,
+      "mean_score": 0.54,
+      "best_single_score": 4,
+      "mean_reward": 17.10245667628944,
+      "mean_length": 138.23
+    },
+    {
+      "step": 385000,
+      "episodes": 6975,
+      "mean_score": 0.64,
+      "best_single_score": 7,
+      "mean_reward": 18.557818327844142,
+      "mean_length": 144.21
+    },
+    {
+      "step": 390000,
+      "episodes": 7010,
+      "mean_score": 0.68,
+      "best_single_score": 7,
+      "mean_reward": 19.156038314029573,
+      "mean_length": 146.86
+    },
+    {
+      "step": 395000,
+      "episodes": 7045,
+      "mean_score": 0.63,
+      "best_single_score": 7,
+      "mean_reward": 18.561091659888625,
+      "mean_length": 144.2
+    },
+    {
+      "step": 400000,
+      "episodes": 7079,
+      "mean_score": 0.62,
+      "best_single_score": 7,
+      "mean_reward": 18.576350831612945,
+      "mean_length": 144.74
+    },
+    {
+      "step": 405000,
+      "episodes": 7122,
+      "mean_score": 0.44,
+      "best_single_score": 7,
+      "mean_reward": 16.175302517861127,
+      "mean_length": 134.56
+    },
+    {
+      "step": 410000,
+      "episodes": 7168,
+      "mean_score": 0.18,
+      "best_single_score": 7,
+      "mean_reward": 11.840773367211222,
+      "mean_length": 114.37
+    },
+    {
+      "step": 415000,
+      "episodes": 7217,
+      "mean_score": 0.12,
+      "best_single_score": 7,
+      "mean_reward": 10.308231696039439,
+      "mean_length": 106.63
+    },
+    {
+      "step": 420000,
+      "episodes": 7267,
+      "mean_score": 0.07,
+      "best_single_score": 7,
+      "mean_reward": 9.238454168066383,
+      "mean_length": 100.84
+    },
+    {
+      "step": 425000,
+      "episodes": 7320,
+      "mean_score": 0.07,
+      "best_single_score": 7,
+      "mean_reward": 8.64251583069563,
+      "mean_length": 96.83
+    },
+    {
+      "step": 430000,
+      "episodes": 7368,
+      "mean_score": 0.11,
+      "best_single_score": 7,
+      "mean_reward": 9.124319176301361,
+      "mean_length": 98.78
+    },
+    {
+      "step": 435000,
+      "episodes": 7405,
+      "mean_score": 0.31,
+      "best_single_score": 7,
+      "mean_reward": 12.17337000079453,
+      "mean_length": 112.8
+    },
+    {
+      "step": 440000,
+      "episodes": 7438,
+      "mean_score": 0.52,
+      "best_single_score": 7,
+      "mean_reward": 15.73294916138053,
+      "mean_length": 130.18
+    },
+    {
+      "step": 445000,
+      "episodes": 7471,
+      "mean_score": 0.74,
+      "best_single_score": 7,
+      "mean_reward": 19.225755827724935,
+      "mean_length": 146.55
+    },
+    {
+      "step": 450000,
+      "episodes": 7509,
+      "mean_score": 0.63,
+      "best_single_score": 7,
+      "mean_reward": 18.167489169836045,
+      "mean_length": 143.44
+    },
+    {
+      "step": 455000,
+      "episodes": 7544,
+      "mean_score": 0.6,
+      "best_single_score": 7,
+      "mean_reward": 18.000268332138656,
+      "mean_length": 143.06
+    },
+    {
+      "step": 460000,
+      "episodes": 7583,
+      "mean_score": 0.42,
+      "best_single_score": 7,
+      "mean_reward": 15.600697494894266,
+      "mean_length": 132.74
+    },
+    {
+      "step": 465000,
+      "episodes": 7622,
+      "mean_score": 0.43,
+      "best_single_score": 7,
+      "mean_reward": 15.746384156495333,
+      "mean_length": 133.5
+    },
+    {
+      "step": 470000,
+      "episodes": 7659,
+      "mean_score": 0.42,
+      "best_single_score": 7,
+      "mean_reward": 15.337959998771549,
+      "mean_length": 131.54
+    },
+    {
+      "step": 475000,
+      "episodes": 7695,
+      "mean_score": 0.44,
+      "best_single_score": 7,
+      "mean_reward": 15.59669248573482,
+      "mean_length": 132.47
+    },
+    {
+      "step": 480000,
+      "episodes": 7732,
+      "mean_score": 0.58,
+      "best_single_score": 7,
+      "mean_reward": 16.840373314395546,
+      "mean_length": 136.71
+    },
+    {
+      "step": 485000,
+      "episodes": 7770,
+      "mean_score": 0.66,
+      "best_single_score": 7,
+      "mean_reward": 17.63556500226259,
+      "mean_length": 139.52
+    },
+    {
+      "step": 490000,
+      "episodes": 7813,
+      "mean_score": 0.51,
+      "best_single_score": 7,
+      "mean_reward": 15.148375001326203,
+      "mean_length": 127.22
+    },
+    {
+      "step": 495000,
+      "episodes": 7851,
+      "mean_score": 0.5,
+      "best_single_score": 7,
+      "mean_reward": 14.88772002235055,
+      "mean_length": 125.07
+    },
+    {
+      "step": 500000,
+      "episodes": 7882,
+      "mean_score": 0.65,
+      "best_single_score": 7,
+      "mean_reward": 16.907601693198085,
+      "mean_length": 133.56
+    },
+    {
+      "step": 505000,
+      "episodes": 7915,
+      "mean_score": 0.76,
+      "best_single_score": 7,
+      "mean_reward": 19.320122529342772,
+      "mean_length": 146.56
+    },
+    {
+      "step": 510000,
+      "episodes": 7963,
+      "mean_score": 0.65,
+      "best_single_score": 7,
+      "mean_reward": 16.44763750895858,
+      "mean_length": 130.3
+    },
+    {
+      "step": 515000,
+      "episodes": 8013,
+      "mean_score": 0.46,
+      "best_single_score": 7,
+      "mean_reward": 11.399785847887397,
+      "mean_length": 101.72
+    },
+    {
+      "step": 520000,
+      "episodes": 8043,
+      "mean_score": 0.6,
+      "best_single_score": 7,
+      "mean_reward": 14.181485836356877,
+      "mean_length": 115.77
+    },
+    {
+      "step": 525000,
+      "episodes": 8080,
+      "mean_score": 0.79,
+      "best_single_score": 7,
+      "mean_reward": 18.442147505432366,
+      "mean_length": 138.47
+    },
+    {
+      "step": 530000,
+      "episodes": 8121,
+      "mean_score": 0.67,
+      "best_single_score": 7,
+      "mean_reward": 17.47514417462051,
+      "mean_length": 135.66
+    },
+    {
+      "step": 535000,
+      "episodes": 8150,
+      "mean_score": 0.73,
+      "best_single_score": 7,
+      "mean_reward": 18.12846666045487,
+      "mean_length": 138.46
+    },
+    {
+      "step": 540000,
+      "episodes": 8180,
+      "mean_score": 0.91,
+      "best_single_score": 7,
+      "mean_reward": 20.89058164395392,
+      "mean_length": 151.77
+    },
+    {
+      "step": 545000,
+      "episodes": 8217,
+      "mean_score": 0.97,
+      "best_single_score": 7,
+      "mean_reward": 21.864623285233975,
+      "mean_length": 157.35
+    },
+    {
+      "step": 550000,
+      "episodes": 8243,
+      "mean_score": 1.08,
+      "best_single_score": 7,
+      "mean_reward": 23.041991618946195,
+      "mean_length": 162.0
+    },
+    {
+      "step": 555000,
+      "episodes": 8267,
+      "mean_score": 1.18,
+      "best_single_score": 12,
+      "mean_reward": 24.581431635692716,
+      "mean_length": 169.12
+    },
+    {
+      "step": 560000,
+      "episodes": 8296,
+      "mean_score": 1.36,
+      "best_single_score": 12,
+      "mean_reward": 27.534348318427803,
+      "mean_length": 182.98
+    },
+    {
+      "step": 565000,
+      "episodes": 8331,
+      "mean_score": 1.21,
+      "best_single_score": 12,
+      "mean_reward": 25.57246248356998,
+      "mean_length": 174.12
+    },
+    {
+      "step": 570000,
+      "episodes": 8373,
+      "mean_score": 0.71,
+      "best_single_score": 12,
+      "mean_reward": 18.101278308779,
+      "mean_length": 139.88
+    },
+    {
+      "step": 575000,
+      "episodes": 8414,
+      "mean_score": 0.48,
+      "best_single_score": 12,
+      "mean_reward": 14.207164999395609,
+      "mean_length": 121.11
+    },
+    {
+      "step": 580000,
+      "episodes": 8456,
+      "mean_score": 0.41,
+      "best_single_score": 12,
+      "mean_reward": 14.115409186407923,
+      "mean_length": 122.69
+    },
+    {
+      "step": 585000,
+      "episodes": 8492,
+      "mean_score": 0.38,
+      "best_single_score": 12,
+      "mean_reward": 13.925293359905481,
+      "mean_length": 122.48
+    },
+    {
+      "step": 590000,
+      "episodes": 8529,
+      "mean_score": 0.52,
+      "best_single_score": 12,
+      "mean_reward": 16.3666850091517,
+      "mean_length": 134.89
+    },
+    {
+      "step": 595000,
+      "episodes": 8566,
+      "mean_score": 0.67,
+      "best_single_score": 12,
+      "mean_reward": 17.72357916034758,
+      "mean_length": 139.58
+    },
+    {
+      "step": 600000,
+      "episodes": 8605,
+      "mean_score": 0.63,
+      "best_single_score": 12,
+      "mean_reward": 16.48750081397593,
+      "mean_length": 132.03
+    },
+    {
+      "step": 605000,
+      "episodes": 8643,
+      "mean_score": 0.58,
+      "best_single_score": 12,
+      "mean_reward": 15.703266667872667,
+      "mean_length": 128.11
+    },
+    {
+      "step": 610000,
+      "episodes": 8688,
+      "mean_score": 0.39,
+      "best_single_score": 12,
+      "mean_reward": 13.948982526659966,
+      "mean_length": 122.14
+    },
+    {
+      "step": 615000,
+      "episodes": 8718,
+      "mean_score": 0.55,
+      "best_single_score": 12,
+      "mean_reward": 16.615751679465173,
+      "mean_length": 135.07
+    },
+    {
+      "step": 620000,
+      "episodes": 8751,
+      "mean_score": 0.62,
+      "best_single_score": 12,
+      "mean_reward": 17.701666682362557,
+      "mean_length": 139.93
+    },
+    {
+      "step": 625000,
+      "episodes": 8794,
+      "mean_score": 0.75,
+      "best_single_score": 12,
+      "mean_reward": 18.58982166610658,
+      "mean_length": 141.63
+    },
+    {
+      "step": 630000,
+      "episodes": 8850,
+      "mean_score": 0.34,
+      "best_single_score": 12,
+      "mean_reward": 10.667266678586602,
+      "mean_length": 102.4
+    },
+    {
+      "step": 635000,
+      "episodes": 8892,
+      "mean_score": 0.24,
+      "best_single_score": 12,
+      "mean_reward": 10.007236683666706,
+      "mean_length": 101.79
+    },
+    {
+      "step": 640000,
+      "episodes": 8928,
+      "mean_score": 0.37,
+      "best_single_score": 12,
+      "mean_reward": 12.75643251299858,
+      "mean_length": 115.52
+    },
+    {
+      "step": 645000,
+      "episodes": 8958,
+      "mean_score": 0.67,
+      "best_single_score": 12,
+      "mean_reward": 18.378726702556015,
+      "mean_length": 143.3
+    },
+    {
+      "step": 650000,
+      "episodes": 8985,
+      "mean_score": 0.99,
+      "best_single_score": 12,
+      "mean_reward": 22.80348753154278,
+      "mean_length": 162.52
+    },
+    {
+      "step": 655000,
+      "episodes": 9009,
+      "mean_score": 1.29,
+      "best_single_score": 12,
+      "mean_reward": 26.949911710843445,
+      "mean_length": 180.44
+    },
+    {
+      "step": 660000,
+      "episodes": 9044,
+      "mean_score": 1.21,
+      "best_single_score": 12,
+      "mean_reward": 25.380919187813998,
+      "mean_length": 172.82
+    },
+    {
+      "step": 665000,
+      "episodes": 9083,
+      "mean_score": 0.92,
+      "best_single_score": 12,
+      "mean_reward": 21.247561676725745,
+      "mean_length": 154.46
+    },
+    {
+      "step": 670000,
+      "episodes": 9108,
+      "mean_score": 0.92,
+      "best_single_score": 12,
+      "mean_reward": 20.883624169826508,
+      "mean_length": 152.24
+    },
+    {
+      "step": 675000,
+      "episodes": 9139,
+      "mean_score": 0.91,
+      "best_single_score": 12,
+      "mean_reward": 21.035528339371083,
+      "mean_length": 153.35
+    },
+    {
+      "step": 680000,
+      "episodes": 9164,
+      "mean_score": 1.36,
+      "best_single_score": 12,
+      "mean_reward": 26.668256667405366,
+      "mean_length": 177.08
+    },
+    {
+      "step": 685000,
+      "episodes": 9197,
+      "mean_score": 1.28,
+      "best_single_score": 12,
+      "mean_reward": 25.725305837243795,
+      "mean_length": 173.47
+    },
+    {
+      "step": 690000,
+      "episodes": 9228,
+      "mean_score": 1.29,
+      "best_single_score": 12,
+      "mean_reward": 25.18856502458453,
+      "mean_length": 169.07
+    },
+    {
+      "step": 695000,
+      "episodes": 9254,
+      "mean_score": 1.37,
+      "best_single_score": 12,
+      "mean_reward": 26.49129001945257,
+      "mean_length": 175.3
+    },
+    {
+      "step": 700000,
+      "episodes": 9286,
+      "mean_score": 1.21,
+      "best_single_score": 12,
+      "mean_reward": 24.40723752364516,
+      "mean_length": 166.87
+    },
+    {
+      "step": 705000,
+      "episodes": 9321,
+      "mean_score": 0.91,
+      "best_single_score": 12,
+      "mean_reward": 20.91787332728505,
+      "mean_length": 152.82
+    },
+    {
+      "step": 710000,
+      "episodes": 9346,
+      "mean_score": 1.05,
+      "best_single_score": 12,
+      "mean_reward": 23.14504750408232,
+      "mean_length": 163.78
+    },
+    {
+      "step": 715000,
+      "episodes": 9385,
+      "mean_score": 0.91,
+      "best_single_score": 12,
+      "mean_reward": 20.644704999476673,
+      "mean_length": 151.36
+    },
+    {
+      "step": 720000,
+      "episodes": 9412,
+      "mean_score": 1.09,
+      "best_single_score": 12,
+      "mean_reward": 23.23345250569284,
+      "mean_length": 163.08
+    },
+    {
+      "step": 725000,
+      "episodes": 9447,
+      "mean_score": 0.89,
+      "best_single_score": 12,
+      "mean_reward": 20.038207492157817,
+      "mean_length": 148.6
+    },
+    {
+      "step": 730000,
+      "episodes": 9488,
+      "mean_score": 0.8,
+      "best_single_score": 12,
+      "mean_reward": 18.752644178643823,
+      "mean_length": 142.83
+    },
+    {
+      "step": 735000,
+      "episodes": 9513,
+      "mean_score": 0.9,
+      "best_single_score": 12,
+      "mean_reward": 19.793315854370594,
+      "mean_length": 146.52
+    },
+    {
+      "step": 740000,
+      "episodes": 9546,
+      "mean_score": 0.93,
+      "best_single_score": 12,
+      "mean_reward": 20.754828379452228,
+      "mean_length": 151.04
+    },
+    {
+      "step": 745000,
+      "episodes": 9579,
+      "mean_score": 1.03,
+      "best_single_score": 12,
+      "mean_reward": 22.76970835879445,
+      "mean_length": 160.79
+    },
+    {
+      "step": 750000,
+      "episodes": 9615,
+      "mean_score": 0.75,
+      "best_single_score": 12,
+      "mean_reward": 19.527909165471794,
+      "mean_length": 148.02
+    },
+    {
+      "step": 755000,
+      "episodes": 9642,
+      "mean_score": 0.92,
+      "best_single_score": 12,
+      "mean_reward": 21.455294978767633,
+      "mean_length": 155.17
+    },
+    {
+      "step": 760000,
+      "episodes": 9666,
+      "mean_score": 1.17,
+      "best_single_score": 12,
+      "mean_reward": 24.670234152451158,
+      "mean_length": 169.08
+    },
+    {
+      "step": 765000,
+      "episodes": 9709,
+      "mean_score": 1.19,
+      "best_single_score": 12,
+      "mean_reward": 23.284312508776782,
+      "mean_length": 158.52
+    },
+    {
+      "step": 770000,
+      "episodes": 9730,
+      "mean_score": 1.39,
+      "best_single_score": 12,
+      "mean_reward": 26.09140587069094,
+      "mean_length": 171.37
+    },
+    {
+      "step": 775000,
+      "episodes": 9757,
+      "mean_score": 1.34,
+      "best_single_score": 12,
+      "mean_reward": 25.377105890139937,
+      "mean_length": 168.43
+    },
+    {
+      "step": 780000,
+      "episodes": 9780,
+      "mean_score": 1.46,
+      "best_single_score": 12,
+      "mean_reward": 27.09372337080538,
+      "mean_length": 176.44
+    },
+    {
+      "step": 785000,
+      "episodes": 9804,
+      "mean_score": 1.77,
+      "best_single_score": 12,
+      "mean_reward": 32.45200168929994,
+      "mean_length": 202.8
+    },
+    {
+      "step": 790000,
+      "episodes": 9833,
+      "mean_score": 1.56,
+      "best_single_score": 12,
+      "mean_reward": 29.827504182010887,
+      "mean_length": 191.52
+    },
+    {
+      "step": 795000,
+      "episodes": 9862,
+      "mean_score": 1.53,
+      "best_single_score": 12,
+      "mean_reward": 29.02914917461574,
+      "mean_length": 186.91
+    },
+    {
+      "step": 800000,
+      "episodes": 9887,
+      "mean_score": 1.52,
+      "best_single_score": 12,
+      "mean_reward": 28.843413324803112,
+      "mean_length": 185.94
+    },
+    {
+      "step": 805000,
+      "episodes": 9910,
+      "mean_score": 1.62,
+      "best_single_score": 12,
+      "mean_reward": 30.27701081544161,
+      "mean_length": 192.53
+    },
+    {
+      "step": 810000,
+      "episodes": 9934,
+      "mean_score": 1.66,
+      "best_single_score": 12,
+      "mean_reward": 30.763587511479855,
+      "mean_length": 195.02
+    },
+    {
+      "step": 815000,
+      "episodes": 9956,
+      "mean_score": 1.97,
+      "best_single_score": 12,
+      "mean_reward": 35.08478248551488,
+      "mean_length": 214.41
+    },
+    {
+      "step": 820000,
+      "episodes": 9979,
+      "mean_score": 1.9,
+      "best_single_score": 12,
+      "mean_reward": 34.36210251070559,
+      "mean_length": 211.93
+    },
+    {
+      "step": 825000,
+      "episodes": 10002,
+      "mean_score": 1.97,
+      "best_single_score": 12,
+      "mean_reward": 35.549304180517794,
+      "mean_length": 217.36
+    },
+    {
+      "step": 830000,
+      "episodes": 10022,
+      "mean_score": 2.16,
+      "best_single_score": 13,
+      "mean_reward": 38.38971166588366,
+      "mean_length": 230.19
+    },
+    {
+      "step": 835000,
+      "episodes": 10041,
+      "mean_score": 2.27,
+      "best_single_score": 13,
+      "mean_reward": 40.00694666132331,
+      "mean_length": 237.3
+    },
+    {
+      "step": 840000,
+      "episodes": 10067,
+      "mean_score": 2.1,
+      "best_single_score": 13,
+      "mean_reward": 37.72263833925128,
+      "mean_length": 227.49
+    },
+    {
+      "step": 845000,
+      "episodes": 10090,
+      "mean_score": 2.12,
+      "best_single_score": 13,
+      "mean_reward": 37.807678316757084,
+      "mean_length": 228.07
+    },
+    {
+      "step": 850000,
+      "episodes": 10108,
+      "mean_score": 2.1,
+      "best_single_score": 13,
+      "mean_reward": 37.31809665940702,
+      "mean_length": 225.89
+    },
+    {
+      "step": 855000,
+      "episodes": 10134,
+      "mean_score": 1.95,
+      "best_single_score": 13,
+      "mean_reward": 35.07062663994729,
+      "mean_length": 215.6
+    },
+    {
+      "step": 860000,
+      "episodes": 10152,
+      "mean_score": 2.16,
+      "best_single_score": 13,
+      "mean_reward": 37.78933495722711,
+      "mean_length": 227.03
+    },
+    {
+      "step": 865000,
+      "episodes": 10175,
+      "mean_score": 2.27,
+      "best_single_score": 13,
+      "mean_reward": 38.60134750112891,
+      "mean_length": 229.13
+    },
+    {
+      "step": 870000,
+      "episodes": 10201,
+      "mean_score": 2.09,
+      "best_single_score": 13,
+      "mean_reward": 36.11701581068337,
+      "mean_length": 217.87
+    },
+    {
+      "step": 875000,
+      "episodes": 10222,
+      "mean_score": 2.19,
+      "best_single_score": 13,
+      "mean_reward": 37.65286999493837,
+      "mean_length": 225.28
+    },
+    {
+      "step": 880000,
+      "episodes": 10246,
+      "mean_score": 2.0,
+      "best_single_score": 13,
+      "mean_reward": 35.29173335067928,
+      "mean_length": 215.38
+    },
+    {
+      "step": 885000,
+      "episodes": 10276,
+      "mean_score": 1.76,
+      "best_single_score": 13,
+      "mean_reward": 31.741628344357014,
+      "mean_length": 199.03
+    },
+    {
+      "step": 890000,
+      "episodes": 10300,
+      "mean_score": 1.83,
+      "best_single_score": 13,
+      "mean_reward": 32.83469668857753,
+      "mean_length": 203.79
+    },
+    {
+      "step": 895000,
+      "episodes": 10322,
+      "mean_score": 1.79,
+      "best_single_score": 13,
+      "mean_reward": 31.95870669066906,
+      "mean_length": 199.21
+    },
+    {
+      "step": 900000,
+      "episodes": 10345,
+      "mean_score": 1.9,
+      "best_single_score": 13,
+      "mean_reward": 33.18506251342595,
+      "mean_length": 204.32
+    },
+    {
+      "step": 905000,
+      "episodes": 10365,
+      "mean_score": 2.14,
+      "best_single_score": 13,
+      "mean_reward": 36.92055750407278,
+      "mean_length": 222.02
+    },
+    {
+      "step": 910000,
+      "episodes": 10386,
+      "mean_score": 2.23,
+      "best_single_score": 13,
+      "mean_reward": 38.381885003596544,
+      "mean_length": 228.99
+    },
+    {
+      "step": 915000,
+      "episodes": 10402,
+      "mean_score": 2.52,
+      "best_single_score": 15,
+      "mean_reward": 42.29094084441662,
+      "mean_length": 246.01
+    },
+    {
+      "step": 920000,
+      "episodes": 10425,
+      "mean_score": 2.51,
+      "best_single_score": 15,
+      "mean_reward": 41.79739835515618,
+      "mean_length": 242.84
+    },
+    {
+      "step": 925000,
+      "episodes": 10440,
+      "mean_score": 2.84,
+      "best_single_score": 15,
+      "mean_reward": 46.178270830586555,
+      "mean_length": 262.01
+    },
+    {
+      "step": 930000,
+      "episodes": 10467,
+      "mean_score": 2.66,
+      "best_single_score": 15,
+      "mean_reward": 42.785631693303586,
+      "mean_length": 244.67
+    },
+    {
+      "step": 935000,
+      "episodes": 10488,
+      "mean_score": 2.51,
+      "best_single_score": 16,
+      "mean_reward": 40.73433999411762,
+      "mean_length": 235.64
+    },
+    {
+      "step": 940000,
+      "episodes": 10527,
+      "mean_score": 1.95,
+      "best_single_score": 16,
+      "mean_reward": 32.63119248524308,
+      "mean_length": 198.76
+    },
+    {
+      "step": 945000,
+      "episodes": 10563,
+      "mean_score": 1.4,
+      "best_single_score": 16,
+      "mean_reward": 25.462199190482497,
+      "mean_length": 167.9
+    },
+    {
+      "step": 950000,
+      "episodes": 10585,
+      "mean_score": 1.34,
+      "best_single_score": 16,
+      "mean_reward": 24.70637918673456,
+      "mean_length": 164.71
+    },
+    {
+      "step": 955000,
+      "episodes": 10606,
+      "mean_score": 1.43,
+      "best_single_score": 16,
+      "mean_reward": 26.553035833761097,
+      "mean_length": 173.98
+    },
+    {
+      "step": 960000,
+      "episodes": 10637,
+      "mean_score": 1.66,
+      "best_single_score": 16,
+      "mean_reward": 30.696135829016566,
+      "mean_length": 194.26
+    },
+    {
+      "step": 965000,
+      "episodes": 10679,
+      "mean_score": 1.16,
+      "best_single_score": 16,
+      "mean_reward": 24.027935784682633,
+      "mean_length": 164.45
+    },
+    {
+      "step": 970000,
+      "episodes": 10713,
+      "mean_score": 0.6,
+      "best_single_score": 16,
+      "mean_reward": 16.787540797889232,
+      "mean_length": 133.86
+    },
+    {
+      "step": 975000,
+      "episodes": 10736,
+      "mean_score": 0.85,
+      "best_single_score": 16,
+      "mean_reward": 20.31540666297078,
+      "mean_length": 149.7
+    },
+    {
+      "step": 980000,
+      "episodes": 10775,
+      "mean_score": 1.05,
+      "best_single_score": 16,
+      "mean_reward": 21.928157516345383,
+      "mean_length": 153.83
+    },
+    {
+      "step": 985000,
+      "episodes": 10800,
+      "mean_score": 1.35,
+      "best_single_score": 16,
+      "mean_reward": 25.555408336520195,
+      "mean_length": 168.59
+    },
+    {
+      "step": 990000,
+      "episodes": 10838,
+      "mean_score": 1.04,
+      "best_single_score": 16,
+      "mean_reward": 20.579815838485956,
+      "mean_length": 145.35
+    },
+    {
+      "step": 995000,
+      "episodes": 10856,
+      "mean_score": 1.27,
+      "best_single_score": 16,
+      "mean_reward": 24.194160003215075,
+      "mean_length": 162.49
+    },
+    {
+      "step": 1000000,
+      "episodes": 10886,
+      "mean_score": 1.46,
+      "best_single_score": 16,
+      "mean_reward": 27.485083326771857,
+      "mean_length": 178.89
+    }
+  ]
+}
